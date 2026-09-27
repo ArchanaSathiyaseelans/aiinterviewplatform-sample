@@ -1,0 +1,6 @@
+{
+  "name": "PanelAI - Multi-Agent AI Interview Platform",
+  "description": "Next-generation candidate evaluation platform featuring multi-agent AI panel interviews, live coding studio, voice synthesis, dynamic agent debates, and multi-dimensional analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
